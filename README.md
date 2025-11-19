@@ -1,2 +1,2 @@
-# BACKEND-SED
-Nhi h kya kr loge
+# ARCHIVED
+Backend Project for college assessment.
